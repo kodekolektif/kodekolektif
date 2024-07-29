@@ -1,7 +1,7 @@
 <div class="theme-main-menu theme-menu-one sticky-menu">
     <div class="container">
         <div class="d-flex align-items-center">
-            <div class="logo mr-auto"><a href="#"><img src="images/logo/logo.svg" alt="kode-kolektif"></a></div>
+            <div class="logo mr-auto"><a href="#"><img src="images/logo/logo-kodekolektif.svg" alt="kode-kolektif"></a></div>
     
             <nav id="mega-menu-holder" class="navbar navbar-expand-lg order-lg-2">
                 <div  class="container nav-container">

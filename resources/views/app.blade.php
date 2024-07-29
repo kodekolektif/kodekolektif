@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="keywords" content="Digital marketing agency, Digital marketing company, Digital marketing services">
 		<meta name="author" content="creativegigs">
-		<meta name="description" content="rogan creative multipurpose is a beautiful website template designed for SEO & Digital Agency websites.">
+		<meta name="description" content="kode-kolektif creative multipurpose is a beautiful website template designed for SEO & Digital Agency websites.">
 		<meta name='og:image' content='images/home/ogg.png'>
 		<!-- For IE -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,7 +19,7 @@
 		<meta name="apple-mobile-web-app-status-bar-style" content="#fff">
 		<title>Kode Kolektif - Business and Agency</title>
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" sizes="56x56" href="{{ asset('images/fav-icon/icon.png') }}">
+		<link rel="icon" type="image/png" sizes="56x56" href="{{ asset('images/fav-icon/fav.png') }}">
 		<!-- Main style sheet -->
 		<link rel="stylesheet" type="text/css" href="{{ asset('css/style.css') }}">
 		<!-- responsive style sheet -->
