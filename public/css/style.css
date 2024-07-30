@@ -939,7 +939,7 @@ body .shadow-button-one:hover {background: var(--p-rose); color: #fff;}
   height: 100%;
   top:0;
   left:0;
-  background: linear-gradient( 130deg, rgb(131,239,146) 0%, rgb(0,211,139) 100%);
+  background: linear-gradient(130deg, rgb(173, 216, 230) 0%, rgb(0, 102, 204) 100%);
   opacity: 0;
 }
 .feature-block-one.hover-state:hover:before {opacity: 1;}
