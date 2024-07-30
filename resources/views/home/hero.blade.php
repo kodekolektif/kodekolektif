@@ -24,8 +24,8 @@
     <div class="container">
         <div class="main-wrapper pos-r">
             <div class="banner-upper-heading wow fadeInDown animated">Welcome to <span>kodekolektif.</span></div>
-            <h1 class="banner-main-title underline pt-15 pb-45 md-pt-10 md-pb-30 wow fadeInUp animated" data-wow-delay="0.4s"><span>Boost Traffic & Rank</span> <br> <span>with rogan.</span></h1>
-            <p class="banner-sub-title pb-45 md-pb-30 wow fadeInUp animated" data-wow-delay="0.9s">The best marketing company to boost your web traffic.</p>
+            <h1 class="banner-main-title underline pt-15 pb-45 md-pt-10 md-pb-30 wow fadeInUp animated" data-wow-delay="0.4s"><span>Collaborative Programming</span> <br> <span> for Innovative Solutions</span></h1>
+            <p class="banner-sub-title pb-45 md-pb-30 wow fadeInUp animated" data-wow-delay="0.9s">Join the best team of programmers to elevate your projects.</p>
             <a href="about-standard.html" class="theme-btn solid-button-one wow fadeInLeft animated" data-wow-delay="1.5s">Explore More</a>
             <a href="portfolio-details-v2.html" class="theme-btn line-button-one wow fadeInRight animated" data-wow-delay="1.5s">Go gallery</a>
         </div> <!-- /.main-wrapper -->

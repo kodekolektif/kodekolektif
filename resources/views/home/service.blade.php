@@ -20,7 +20,7 @@
                     <div class="feature-block-one mt-300 md-mt-50">
                         <img src="images/icon/icon2.svg" alt="" class="img-icon">
                         <h5 class="pt-30 pb-25 tran3s title">Digital Marketing</h5>
-                        <p class="tran3s">Lorem ipsum dolor si amet,  dusino situ  sint pertinac constituto, mir es dignsius quo great.</p>
+                        <p class="tran3s">We craft effective digital marketing strategies to help your brand reach and engage the right audience. Our expertise in SEO, content marketing, social media, and online advertising ensures impactful and measurable results.</p>
                         <a href="#" class="read-more tran3s"><i class="flaticon-next-1"></i></a>
                     </div> <!-- /.feature-block-one -->
                 </div>
@@ -29,27 +29,27 @@
                     <div class="feature-block-one mb-45 mt-85 md-mt-40">
                         <img src="images/icon/icon3.svg" alt="" class="img-icon">
                         <h5 class="pt-30 pb-25 tran3s title">SEO & Backlinks.</h5>
-                        <p class="tran3s">Lorem ipsum dolor si amet,  dusino situ  sint pertinac constituto, mir es dignsius quo great.</p>
+                        <p class="tran3s">We optimize your website to improve search engine rankings and drive organic traffic. Our expert team builds high-quality backlinks and implements effective SEO strategies to ensure your site stands out in search results.</p>
                         <a href="#" class="read-more tran3s"><i class="flaticon-next-1"></i></a>
                     </div> <!-- /.feature-block-one -->
                     <div class="feature-block-one">
                         <img src="images/icon/icon4.svg" alt="" class="img-icon">
                         <h5 class="pt-30 pb-25 tran3s title">Marketing Analysis.</h5>
-                        <p class="tran3s">Lorem ipsum dolor si amet,  dusino situ  sint pertinac constituto, mir es dignsius quo great.</p>
+                        <p class="tran3s">We leverage social media platforms to connect your brand with your target audience. Our tailored social marketing strategies boost engagement, increase followers, and drive conversions, ensuring your brand's message resonates and inspires action.</p>
                         <a href="#" class="read-more tran3s"><i class="flaticon-next-1"></i></a>
                     </div> <!-- /.feature-block-one -->
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="feature-block-one mb-45 md-mt-40">
                         <img src="images/icon/icon5.svg" alt="" class="img-icon">
-                        <h5 class="pt-30 pb-25 tran3s title">Social Marketing.</h5>
-                        <p class="tran3s">Lorem ipsum dolor si amet,  dusino situ  sint pertinac constituto, mir es dignsius quo great.</p>
+                        <h5 class="pt-30 pb-25 tran3s title">Web / Mobile Development.</h5>
+                        <p class="tran3s">We design and develop responsive web and mobile applications tailored to your needs. Our team ensures seamless functionality, intuitive user experiences, and cutting-edge design, bringing your digital vision to life.</p>
                         <a href="#" class="read-more tran3s"><i class="flaticon-next-1"></i></a>
                     </div> <!-- /.feature-block-one -->
                     <div class="feature-block-one">
                         <img src="images/icon/icon6.svg" alt="" class="img-icon">
-                        <h5 class="pt-30 pb-25 tran3s title">Content Marketing. </h5>
-                        <p class="tran3s">Lorem ipsum dolor si amet,  dusino situ  sint pertinac constituto, mir es dignsius quo great.</p>
+                        <h5 class="pt-30 pb-25 tran3s title">Ads Management. </h5>
+                        <p class="tran3s">We create and manage targeted advertising campaigns that drive results. Our expert team optimizes your ad spend across various platforms to ensure maximum reach, engagement, and return on investment.</p>
                         <a href="#" class="read-more tran3s"><i class="flaticon-next-1"></i></a>
                     </div> <!-- /.feature-block-one -->
                 </div>

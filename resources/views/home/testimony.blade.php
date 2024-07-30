@@ -4,12 +4,12 @@
         <img src="images/shape/34.svg" alt="" class="shape-one img-shape">
     </div> <!-- /.shape-wrapper -->
     <div class="shape-wrapper">
-        <img src="images/home/2.jpg" alt="" class="people">
-        <img src="images/home/3.jpg" alt="" class="people">
-        <img src="images/home/4.jpg" alt="" class="people">
-        <img src="images/home/5.jpg" alt="" class="people">
-        <img src="images/home/6.jpg" alt="" class="people">
-        <img src="images/home/7.jpg" alt="" class="people">
+        <img src="images/people/2.png" alt="" class="people">
+        <img src="images/people/3.png" alt="" class="people">
+        <img src="images/people/2.png" alt="" class="people">
+        <img src="images/people/1.png" alt="" class="people">
+        <img src="images/people/2.png" alt="" class="people">
+        <img src="images/people/3.png" alt="" class="people">
     </div>
     <div class="container">
         <div class="theme-title-one text-center">
@@ -35,15 +35,31 @@
             <div class="main-content">
                 <div class="classic-testimonial-slider">
                     <div class="item">
-                        <p>ommodo consequat. Duis aute irure dolor in reprehendert voluptate velit esse cillum dolore eu fugiat nulla Excepteu sint occaecat cupidat non proident, sunt in culpa qui officia deserunt mollit anim id est lrum.</p>
-                        <h6 class="name">Rashed Ka.</h6>
-                        <span class="designation">Senior Designer, Squre.</span>
+                        <p>Kode Kolektif has been a game-changer for our business. Their collaborative approach and technical expertise have significantly boosted our online presence and project efficiency.
+                        </p>
+                        <h6 class="name">John D.</h6>
+                        <span class="designation">CEO, Tech Innovators</span>
                     </div> <!-- /.item -->
                     <div class="item">
-                        <p>ommodo consequat. Duis aute irure dolor in reprehendert voluptate velit esse cillum dolore eu fugiat nulla Excepteu sint occaecat cupidat non proident, sunt in culpa qui officia deserunt mollit anim id est lrum.</p>
-                        <h6 class="name">Zubayer al hasan</h6>
-                        <span class="designation">Senior Developer, Envato.</span>
+                        <p>The team at Kode Kolektif is outstanding. They delivered a beautifully designed website that exceeded our expectations and provided excellent support throughout the process.</p>
+                        <h6 class="name">Zubayer L.</h6>
+                        <span class="designation"> Marketing Director, Bright Future Inc.</span>
                     </div> <!-- /.item -->
+                    <div class="item">
+                        <p>Working with Kode Kolektif has been a fantastic experience. Their innovative solutions and attention to detail have helped us achieve our goals faster than we imagined</p>
+                        <h6 class="name">Michael B.</h6>
+                        <span class="designation">Founder, StartUp Solutions</span>
+                    </div>
+                    <div class="item">
+                        <p>Kode Kolektif’s expertise in mobile development is top-notch. They created a user-friendly app that has received rave reviews from our customers. We couldn’t be happier with the results.</p>
+                        <h6 class="name">Emily R.</h6>
+                        <span class="designation">Product Manager, Digital Horizons</span>
+                    </div>
+                    <div class="item">
+                        <p>From SEO to ads management, Kode Kolektif has improved our digital marketing efforts tremendously. Their strategic approach and dedication have driven substantial growth for our company.</p>
+                        <h6 class="name">David K.</h6>
+                        <span class="designation">COO, MarketMasters</span>
+                    </div>
                 </div>
             </div>
         </div> <!-- /.inner-container -->

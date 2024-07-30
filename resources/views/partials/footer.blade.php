@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-sm-6 col-12 footer-about-widget">
-                    <a href="index.html" class="logo"><img src="images/logo/logo.svg" alt=""></a>
+                    <a href="index.html" class="logo"><img src="{{ asset('images/logo/logo-kodekolektif.svg') }}" alt=""></a>
                     <a href="mailto:info@kodekolektif.com" target="_blank" class="email">info@kodekolektif.com</a>
                     <a href="https://wa.me/6281529963914" target="_blank" class="phone">081529963914</a>
                     
@@ -24,13 +24,12 @@
                         <li><a href="about-standard.html">About us</a></li>
                         <li><a href="portfolio-v1.html">Work Portfolio</a></li>
                         <li><a href="team-v1.html">Team</a></li>
-                        <li><a href="#">Plan & Pricing</a></li>
                         <li><a href="blog-v1.html">News</a></li>
                     </ul>
                 </div> <!-- /.footer-list -->
                 <div class="col-lg-3 col-lg-2 col-sm-6 col-12 footer-information">
                     <h5 class="footer-title">Our Address</h5>
-                    <p>00 Orville Road Apt. 728 <br>California, USA</p>
+                    <p>Denpasar, Bali <br>Indonesia</p>
                     <ul>
                         <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>

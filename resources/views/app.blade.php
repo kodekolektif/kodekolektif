@@ -120,7 +120,7 @@
 				Our Blog
 			=====================================================
 			-->
-			@include('home.blog')
+			{{-- @include('home.blog') --}}
             <!-- /.home-blog-one -->
 
 

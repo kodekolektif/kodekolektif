@@ -13,10 +13,10 @@
                 <div class="col-lg-6">
                     <div class="theme-title-one">
                         <div class="upper-title mb-5">About us</div>
-                        <h2 class="main-title underline"><span>Greatest Marketing Co</span> <span>Online Today!</span></h2>
+                        <h2 class="main-title underline"><span>Leading the Way </span> <span>in Technology Solutions</span></h2>
                     </div> <!-- /.theme-title-one -->
-                    <p class="pt-40 pb-45">Lorem ipsum dolor sit amet, hendrerit omittantur mel, es vidit eu lorem animal iracundia. Ius te altera essent incorrupte. Id alien accu consetetur em, nibh aliquam iracundia.</p>
-                    <p class="bold-text pb-60">Lorem ipsum dolor sit amet, hendrerit omittantur melu, est ut vidit animal iracundia luis.</p>
+                    <p class="pt-40 pb-45">At Kode Kolektif, we are a dynamic team of programmers united by a shared passion for technology and innovation. Our name, which translates to "Code Collective," reflects our belief in the power of collaboration and shared ownership of the solutions we create. By working together, we harness our collective expertise to deliver high-quality, effective technology solutions tailored to our clients' needs.</p>
+                    <p class="bold-text pb-60">To become a leading technology company known for our innovative approach and collaborative spirit, driving progress and shaping the future of technology.</p>
                     <a href="#" class="theme-btn solid-button-one" data-aos="fade-up">Learn More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
                 </div>
             </div>
@@ -26,7 +26,7 @@
             <div class="image-box" data-aos="fade-left" data-aos-delay="300">
                 <svg width="666" height="578">
                     <g clip-path="url(#path-shape-one)">
-                        <image width="666" height="578" href="images/home/1.jpg" class="image-shape">
+                        <image width="666" height="578" href="{{ asset('images/people/team.png') }}" class="image-shape">
                         </image>
                     </g>
                 </svg>
