@@ -5,7 +5,7 @@
                 <div class="col-lg-3 col-sm-6 col-12 footer-about-widget">
                     <a href="index.html" class="logo"><img src="{{ asset('images/logo/logo-kodekolektif.svg') }}" alt=""></a>
                     <a href="mailto:info@kodekolektif.com" target="_blank" class="email">info@kodekolektif.com</a>
-                    <a href="https://wa.me/6281529963914" target="_blank" class="phone">081529963914</a>
+                    {{-- <a href="https://wa.me/6281529963914" target="_blank" class="phone">081529963914</a> --}}
                     
                 </div> <!-- /.about-widget -->
                 <div class="col-lg-3 col-lg-3 col-sm-6 col-12 footer-list">
